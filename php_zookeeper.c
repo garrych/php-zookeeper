@@ -46,8 +46,9 @@
 #include "php_zookeeper.h"
 #include "php_zookeeper_private.h"
 #include "php_zookeeper_session.h"
+/*
 #include "php_zookeeper_exceptions.h"
-
+*/
 /****************************************
   Helper macros
 ****************************************/
